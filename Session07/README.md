@@ -1,1 +1,2 @@
-This is the first and basic lession of jwt authentication and authorization.
+covered session 07 & 08 & 09
+Authentication and Authorization
